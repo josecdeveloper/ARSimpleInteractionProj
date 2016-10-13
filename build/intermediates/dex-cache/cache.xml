@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PAT\Desktop\ARToolKit5-bin-5.3.2-Android\AndroidStudioProjects\ARSimpleInteractionProj\aRSimpleInteraction\build\intermediates\exploded-aar\ARSimpleInteractionProj\aRBaseLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="C:\Users\PAT\Desktop\ARToolKit5-bin-5.3.2-Android\AndroidStudioProjects\ARSimpleInteractionProj\aRSimpleInteraction\build\intermediates\pre-dexed\debug\classes-a457adf18f7fc93752c2439f4f42c8a738c4665b.jar" />
+    </item>
+
+</items>
